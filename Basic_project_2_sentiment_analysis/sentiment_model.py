@@ -33,8 +33,6 @@ class RNNSelfAttention(nn.Module):
         # (B*L, atten_hops)
         alpha = self.self_attention(output)
 
-        #print('alpha 1 shape: ', alpha.shape)
-
         # (B, L, atten_hops)
         alpha = alpha.reshape(output_shape[0], output_shape[1], -1)
 
