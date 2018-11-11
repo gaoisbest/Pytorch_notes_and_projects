@@ -5,3 +5,4 @@
 
 # Pytorch projects
 - `Basic_project_1_regression.ipynb` uses one hidden layer MLP to fit cosine function.
+- `Basic_project_2_sentiment_analysis` implements [A structured self-attentive sentence embedding](https://arxiv.org/pdf/1703.03130.pdf) for sentiment analysis on IMDB dataset.
