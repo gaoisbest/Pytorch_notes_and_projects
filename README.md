@@ -1,8 +1,9 @@
 # Pytorch notes
-- `Basic_concept_1_tensor_operations.ipynb` demonstrates `tensor` and four different `operations` (i.e., **reshape**, **element-wise**, **reduction**, **access**).
-- `Basic_concept_2_data_preparation.ipynb` gives an example about using `Dataset`, `TensorDataset` and `DataLoader`.
-- `Basic_concept_3_model_save_and_load.ipynb` gives example about how to save and load trained model.
-- `Basic_concept_4_model.ipynb` gives an example about how to define model.
+- `Basic_concept_1_tensor_operations.ipynb` demonstrates `tensor` and four different `operations` (i.e., **reshape**, **element-wise**, **reduction**, **access**)
+- `Basic_concept_2_data_preparation.ipynb` gives an example about using `Dataset`, `TensorDataset` and `DataLoader`
+- `Basic_concept_3_model_save_and_load.ipynb` gives example about how to save and load trained model
+- `Basic_concept_4_model.ipynb` gives an example about how to define model
+- `Basic_concept_5_TensorBoard.ipynb` gives an example about how to use TensorBoard 
 
 # Pytorch projects
 - `Basic_project_1_regression.ipynb` uses one hidden layer MLP to fit cosine function.
